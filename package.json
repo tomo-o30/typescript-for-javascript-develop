@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tomo-o30/typescript-for-javascript-develop/issues"
   },
-  "homepage": "https://github.com/tomo-o30/typescript-for-javascript-develop#readme"
+  "homepage": "https://github.com/tomo-o30/typescript-for-javascript-develop#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
 }
